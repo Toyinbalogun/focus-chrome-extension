@@ -8,10 +8,10 @@
        "128": "images/icon128.png" 
     },
 
-    "content-scripts": [
+    "content_scripts": [
         {
-            "js": "js/content.js",
-            "matches": "[<all_urls>]" 
+            "js": ["js/content.js"],
+            "matches": ["<all_urls>"] 
         }
     ]
 

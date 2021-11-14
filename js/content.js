@@ -287,4 +287,12 @@ switch (window.location.hostname) {
     document.head.innerHTML = generateStylingOnCall();
     document.body.innerHTML = generateHTMLOnCall("SPOTIFY");
     break;
+  case "www.instagram.com":
+    document.head.innerHTML = generateStylingOnCall();
+    document.body.innerHTML = generateHTMLOnCall("INSTAGRAM");
+    break;
+  case "twitter.com":
+    document.head.innerHTML = generateStylingOnCall();
+    document.body.innerHTML = generateHTMLOnCall("TWITTER");
+    break;
 }
