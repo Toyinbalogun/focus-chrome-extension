@@ -32,8 +32,9 @@ So that I have a nice study session and pass my courses 😊.
 ```
 
 ## Demo
-
-<br>
+<p align="center">
+    <img src="./img/focus.gif" width="500" height="500">
+</p>
 
 ## Installing and running the code on computer
 
